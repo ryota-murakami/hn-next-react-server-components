@@ -21,7 +21,7 @@
     "trailingComma": "none"
   },
   "devDependencies": {
-    "@types/node": "^20.4.0",
+    "@types/node": "^20.4.1",
     "@types/react": "^18.2.14"
   },
   "volta": {
