@@ -10,9 +10,10 @@ export async function generateStaticParams() {
 export default async function RSCPage({ params }) {
   const { page } = params
   const storyIds = await fetchData('topstories')
+
   return (
     <>
-      {/* @ts-expect-error Server Component */}
+      {/* @ts-ignore */}
       <Stories page={page} storyIds={storyIds} />
     </>
   )
