@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.7.1",
-    "@types/react": "^18.2.23"
+    "@types/react": "^18.2.24"
   },
   "volta": {
     "node": "18.17.1"
