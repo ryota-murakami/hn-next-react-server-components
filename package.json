@@ -28,7 +28,7 @@
     "trailingComma": "none"
   },
   "devDependencies": {
-    "@types/node": "^20.10.1",
+    "@types/node": "^20.10.3",
     "@types/react": "^18.2.41",
     "husky": "^8.0.0",
     "lint-staged": "^15.1.0",
