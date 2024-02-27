@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.11.20",
-    "@types/react": "^18.2.58",
+    "@types/react": "^18.2.60",
     "husky": "^9.0.11",
     "lint-staged": "^15.2.2",
     "prettier": "^3.2.5"
